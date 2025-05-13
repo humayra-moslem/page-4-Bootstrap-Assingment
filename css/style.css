@@ -1,0 +1,44 @@
+ .header {
+      background-color: #fffdf7;
+      padding: 10px 20px;
+      align-items: center;
+    }
+    .search-box {
+      max-width: 200px;
+    }
+    .logo {
+      font-weight: bold;
+      font-size: 1.5rem;
+    }
+    .cart-count {
+      background-color: #e74c3c;
+      border-radius: 50%;
+      padding: 2px 6px;
+      font-size: 0.75rem;
+      color: white;
+      margin-left: 3px;
+    }
+
+     .category-nav {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 1rem;
+    }
+.ul {
+    list-style-type: none;
+    color: #000;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    
+}
+.para {
+  border-bottom: 1px solid bisque;
+  
+}
+
+    
